@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flickr Search Demo</string>
+    <string name="no_result_found">No result found!</string>
+    <string name="search">Search</string>
+    <string name="two_columns">Two Columns</string>
+    <string name="three_columns">Three Columns</string>
+    <string name="four_columns">Four Columns</string>
+    <string name="image_from_flickr">Image from Flickr</string>
+</resources>
